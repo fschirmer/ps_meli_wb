@@ -16,7 +16,7 @@ Abaixo descrevo o processo realizado para solucionar esta etapa do Challenge.
 
 2. Transformar os dados
 
-   Após verificar os dados de cada fonte, criei um Notebook para transformar os dados e deixá-los no melhor formato para análise em uma ferramenta de visualização. Durante a transformação dos dados, identifiquei que os dados de usuários de internet possuem informação somente a partir do ano de 1990, por isso exclui os dados anteriores a este ano.
+   Após verificar os dados de cada fonte, criei um [Notebook](transform_data.ipynb) para transformar os dados e deixá-los no melhor formato para análise em uma ferramenta de visualização. Durante a transformação dos dados, identifiquei que os dados de usuários de internet possuem informação somente a partir do ano de 1990, por isso exclui os dados anteriores a este ano.
 
 3. Ferramenta de visualização
 
