@@ -52,7 +52,7 @@ Abaixo descrevo o processo realizado para solucionar esta etapa do Challenge.
 
    Analisando todos os indicadores, concluo que conforme o país cresce (GDP) o acesso à internet aumenta, porém não retrai em épocas de queda, assim como acontece o mesmo com o desemprego em alta. Isto pode ser explicado devido a transformação que a tecnologia impôs a sociedade. Hoje a internet é um serviço que concentra diversos outros serviços, como por exemplo: pagamento, comunicação, entretenimento, busca por emprego, meio de trabalho e inúmeros outros. Isto explica o porque do número de usuários avançar rapidamente e mesmo se manter aumentando em épocas de dificuldades financeiras. 
 
-   Resumindo, a internet é hoje um serviço básico como a energia elétrica e algo a ser priorizado pelas pessoas devido a s características de o seu acesso substituir diversos outros serviços que antes eram independentes.
+   Resumindo, a internet é hoje um serviço básico como a energia elétrica e algo a ser priorizado pelas pessoas devido as características de o seu acesso substituir diversos outros serviços que antes eram independentes.
 
     
 
