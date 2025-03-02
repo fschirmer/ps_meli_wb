@@ -54,6 +54,7 @@ Abaixo descrevo o processo realizado para solucionar esta etapa do Challenge.
 
    Resumindo, a internet é hoje um serviço básico como a energia elétrica e algo a ser priorizado pelas pessoas devido as características de o seu acesso substituir diversos outros serviços que antes eram independentes.
 
+   [Relatório](https://lookerstudio.google.com/reporting/f5c5e153-fc95-443c-b7c8-74e8d445ef57)
     
 
     
